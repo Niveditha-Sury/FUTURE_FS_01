@@ -8,6 +8,9 @@ Minimalist Portfolio Website
 
 This project is a beginner-friendly, responsive, black-and-white portfolio website built from scratch. It is designed to be minimalistic and professional, making it an excellent starting point for developers who want to showcase their skills and projects. The website includes a navigation menu, an About Me section, an Experience section, a Projects gallery, and a Contact Me page.
 
+
+Live Demo: https://niveditha-sury-portfolio.netlify.app/
+
 ---
 
 ### **Features**
